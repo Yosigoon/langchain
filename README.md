@@ -1,2 +1,3 @@
 # langchain
-sample
+
+## pip install langchain openai
