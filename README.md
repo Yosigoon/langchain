@@ -1,3 +1,3 @@
 # langchain
 
-## pip install langchain openai
+- pip install langchain openai
